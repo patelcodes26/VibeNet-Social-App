@@ -22,7 +22,7 @@ VibeNet is a dynamic social networking app built with **Flutter** and **Firebase
 - **Git & GitHub**: Version control & collaboration
 
 ## 📸 Screenshots
-<img src="screenshots/login.png" width="200" /> <img src="screenshots/feed.png" width="200" /> <img src="screenshots/chat.png" width="200" />
+<img src="https://github.com/patelcodes26/VibeNet-Social-App/blob/main/images/sign%20up.png" width="200" /> <img src="https://github.com/patelcodes26/VibeNet-Social-App/blob/main/images/post.png" width="200" /> <img src="https://github.com/patelcodes26/VibeNet-Social-App/blob/main/images/chat.png" width="200" />
 
 ## 📦 Installation
 1. Clone the repository:
